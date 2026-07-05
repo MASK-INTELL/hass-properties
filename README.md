@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 # 🏠 Hass Properties
 ### The Ultimate Real Estate Management Template for Premium Properties.
